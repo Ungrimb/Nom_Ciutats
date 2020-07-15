@@ -1,0 +1,12 @@
+C:\Users\arkar\Source\Repos\Nom_Ciutats\Nom_Ciutats\bin\Debug\netcoreapp3.1\Nom_Ciutats.exe
+C:\Users\arkar\Source\Repos\Nom_Ciutats\Nom_Ciutats\bin\Debug\netcoreapp3.1\Nom_Ciutats.deps.json
+C:\Users\arkar\Source\Repos\Nom_Ciutats\Nom_Ciutats\bin\Debug\netcoreapp3.1\Nom_Ciutats.runtimeconfig.json
+C:\Users\arkar\Source\Repos\Nom_Ciutats\Nom_Ciutats\bin\Debug\netcoreapp3.1\Nom_Ciutats.runtimeconfig.dev.json
+C:\Users\arkar\Source\Repos\Nom_Ciutats\Nom_Ciutats\bin\Debug\netcoreapp3.1\Nom_Ciutats.dll
+C:\Users\arkar\Source\Repos\Nom_Ciutats\Nom_Ciutats\bin\Debug\netcoreapp3.1\Nom_Ciutats.pdb
+C:\Users\arkar\Source\Repos\Nom_Ciutats\Nom_Ciutats\obj\Debug\netcoreapp3.1\Nom_Ciutats.AssemblyInfoInputs.cache
+C:\Users\arkar\Source\Repos\Nom_Ciutats\Nom_Ciutats\obj\Debug\netcoreapp3.1\Nom_Ciutats.AssemblyInfo.cs
+C:\Users\arkar\Source\Repos\Nom_Ciutats\Nom_Ciutats\obj\Debug\netcoreapp3.1\Nom_Ciutats.csproj.CoreCompileInputs.cache
+C:\Users\arkar\Source\Repos\Nom_Ciutats\Nom_Ciutats\obj\Debug\netcoreapp3.1\Nom_Ciutats.dll
+C:\Users\arkar\Source\Repos\Nom_Ciutats\Nom_Ciutats\obj\Debug\netcoreapp3.1\Nom_Ciutats.pdb
+C:\Users\arkar\Source\Repos\Nom_Ciutats\Nom_Ciutats\obj\Debug\netcoreapp3.1\Nom_Ciutats.genruntimeconfig.cache
