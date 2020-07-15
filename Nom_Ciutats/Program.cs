@@ -19,13 +19,25 @@ namespace Nom_Ciutats
             ciutat5 = Console.ReadLine();
             Console.WriteLine("Nom ciutat 6 :");
             ciutat6 = Console.ReadLine();
+
+            string[] arrayCiutats = { ciutat1, ciutat2, ciutat3, ciutat4, ciutat5, ciutat6 };
+            string[] arrayArrayCiutatsModificades = new string[6];
+            int count = 0;
+
+
+            foreach (string c in arrayCiutats)
+            {
+                arrayArrayCiutatsModificades[count] = c.Replace("a", "4");
+                count++;
+            }
+
+            Array.Sort(arrayArrayCiutatsModificades, StringComparer.InvariantCulture);
+
             Console.WriteLine("Las ciudades introducidas son: ");
-            Console.WriteLine(ciutat1);
-            Console.WriteLine(ciutat2);
-            Console.WriteLine(ciutat3);
-            Console.WriteLine(ciutat4);
-            Console.WriteLine(ciutat5);
-            Console.WriteLine(ciutat6);
+            foreach (string c in arrayArrayCiutatsModificades)
+            {
+                Console.WriteLine(c);
+            }
         }
     }
 }
