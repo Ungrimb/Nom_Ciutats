@@ -10,3 +10,4 @@ C:\Users\arkar\Source\Repos\Nom_Ciutats\Nom_Ciutats\obj\Debug\netcoreapp3.1\Nom_
 C:\Users\arkar\Source\Repos\Nom_Ciutats\Nom_Ciutats\obj\Debug\netcoreapp3.1\Nom_Ciutats.dll
 C:\Users\arkar\Source\Repos\Nom_Ciutats\Nom_Ciutats\obj\Debug\netcoreapp3.1\Nom_Ciutats.pdb
 C:\Users\arkar\Source\Repos\Nom_Ciutats\Nom_Ciutats\obj\Debug\netcoreapp3.1\Nom_Ciutats.genruntimeconfig.cache
+C:\Users\arkar\source\repos\Nom_Ciutats\Nom_Ciutats\obj\Debug\netcoreapp3.1\Nom_Ciutats.csprojAssemblyReference.cache
